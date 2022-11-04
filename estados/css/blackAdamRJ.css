@@ -1,0 +1,931 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+#faixa{
+    width: 100%;
+    height: 45px;
+    background-color: #7A1E1E;
+}
+#logo{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+#adam{
+    width: 100%;
+    height: 1000px;
+    margin-top: 50px;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-top: -560px;
+    margin-left: 153px;
+}
+#black{
+    width: 350px;
+    height: 500px;
+    margin-left: 164px;
+    margin-top: -20px;
+}
+#idade1{
+    width: 70px;
+    height: 70px;
+    margin-left: 90px;
+    margin-bottom: 75px;
+}
+h2{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 740px;
+    margin-top: -135px;
+}
+#ret1{
+    position: absolute;
+    width: 160px;
+    height:60px;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-left: 725px;
+    margin-top: -85px;
+}
+h3{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 970px;
+    margin-top: -72px;
+}
+#ret2{
+    position: absolute;
+    width: 160px;
+    height:60px;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin-left: 936px;
+    margin-top: -90px;
+}
+h4{
+    font-size: 70px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 164px;
+    margin-top: 250px;
+}
+h5{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    margin-left: 164px;
+    margin-top: 100px;
+    margin-right: 175px;
+    text-align: justify;
+}
+#linha{
+    width: 3100px;
+    height: 5px;
+    background-color: white;
+    margin-left: 340px;
+    margin-top: 70px;
+}
+h6{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    color: #7A1E1E;
+    margin-left: 165px;
+}
+h7{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: white; 
+    margin-left: 165px;
+}
+h8{
+    margin-top: 120px;
+    margin-left: -230px;
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+}
+#linha1{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: -40px;
+}
+h9{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 43px;
+}
+h10{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 35px;
+}
+#horario1{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 55px;
+    margin-left: 397px;
+}
+h11{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 1px;
+    margin-left: 90px;
+}
+h12{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 85px;
+}
+#horario2{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 55px;
+    margin-left: 55px;
+}
+h13{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 1px;
+    margin-left: 90px;
+}
+h14{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 85px;
+}
+#horario3{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 55px;
+    margin-left: 55px;
+}
+#linha2{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 130px;
+}
+#Dub1{
+    background-color: #7A1E1E;
+    width: 60px;
+    height: 60px;
+    margin-left: 1200px;
+    margin-top: -66px;
+    position: absolute;
+    border-radius: 5px;
+}
+h15{
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1208px;
+    margin-top: -48px;
+    position: absolute;
+}
+h16{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: -58px;
+    margin-left: 1350px;
+}
+#Ingresso1{
+    width: 200px;
+    height: 65px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+    margin-top: -75px;
+    margin-left: 1330px;
+    position: absolute;
+}
+h17{
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
+    margin-left: 160px;
+}
+#linha3{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 360px;
+}
+h18{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 424px;
+}
+#horario4{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 86px;
+    margin-left: 397px;
+}
+h19{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: -113px;
+}
+h20{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 85px;
+}
+#horario5{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 86px;
+    margin-left: 58px;
+}
+h21{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: -118px;
+}
+h22{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 85px; 
+}
+#horario6{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 86px;
+    margin-left: 58px;
+}
+h23{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: -115px;
+}
+#linha4{
+    background-color: white;
+    width: 3px;
+    height: 70px;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 125px;
+}
+#Dub2{
+    background-color: #7A1E1E;
+    width: 60px;
+    height: 60px;
+    margin-left: 227px;
+    margin-top: 90px;
+    position: absolute;
+    border-radius: 5px;
+}
+h24{
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 237px;
+    margin-top: 109px;
+    position: absolute;
+}
+h25{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 380px;
+}
+#Ingresso2{
+    width: 200px;
+    height: 65px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+    margin-top: 87px;
+    margin-left: 359px;
+    position: absolute;
+}
+h26{
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 250px;
+    margin-left: -810px;
+}
+#linha5{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: -613px;
+}
+h27{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: -549px; 
+}
+#horario7{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: -580px;
+}
+h28{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: -540px; 
+}
+h29{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: -335px; 
+}
+#horario8{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: -363px;
+}
+h30{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: -325px;
+}
+h31{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: -120px; 
+}
+#horario9{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: -150px;
+}
+h32{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: -113px;
+}
+#linha6{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 124px;
+}
+#Dub3{
+    background-color: #7A1E1E;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 227px;
+    border-radius: 5px;
+}
+h33{
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 237px;
+    margin-top: 258px;
+    position: absolute;
+}
+h34{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 248px;
+    margin-left: 379px
+}
+#Ingresso3{
+    width: 200px;
+    height: 65px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+    margin-top: 230px;
+    margin-left: 359px;
+    position: absolute;
+}
+h35{
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: white; 
+    margin-left: 164px;
+    position: absolute;
+    margin-top: 400px;
+}
+h36{
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 520px;
+    margin-left: 165px;
+}
+#linha7{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 508px;
+    margin-left: 365px;
+}
+h37{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 523px;
+    margin-left: 440px;
+}
+#horario10{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 507px;
+    margin-left: 412px;
+}
+h38{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 445px;
+}
+h39{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 520px;
+    margin-left: 650px;
+}
+#horario11{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 507px;
+    margin-left: 622px;
+}
+h40{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 655px;
+}
+h41{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 520px;
+    margin-left: 850px;
+}
+#horario12{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 507px;
+    margin-left: 820px;
+}
+h42{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 855px;
+}
+#linha8{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 504px;
+    margin-left: 1095px;
+}
+#Dub4{
+    background-color: #7A1E1E;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin-top: 510px;
+    margin-left: 1200px;
+    border-radius: 5px;
+}
+h43{
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1210px;
+    margin-top: 530px;
+    position: absolute;
+}
+h44{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 520px;
+    margin-left: 1352px
+}
+#Ingresso4{
+    width: 200px;
+    height: 65px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+    margin-top: 500px;
+    margin-left: 1330px;
+    position: absolute;
+}
+h45{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    color: white; 
+    margin-left: 164px;
+    position: absolute;
+    margin-top: 680px;
+}
+#linha9{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 660px;
+    margin-left: 365px;
+}
+h46{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 677px;
+    margin-left: 438px;
+}
+#horario13{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 665px;
+    margin-left: 409px;
+}
+h47{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 620px;
+    margin-left: 445px;
+}
+h48{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 677px;
+    margin-left: 647px;
+}
+#horario14{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 665px;
+    position: absolute;
+    margin-left: 620px;
+}
+#horario19{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    position: absolute; 
+}
+h49{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 620px;
+    margin-left: 655px;
+}
+h50{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 677px;
+    margin-left: 850px; 
+}
+#horario15{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 665px;
+    margin-left: 819px;
+}
+h51{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 620px;
+    margin-left: 854px;
+}
+#linha10{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 660px;
+    margin-left: 1097px;
+}
+#Dub5{
+    background-color: #7A1E1E;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin-top: 670px;
+    margin-left: 1200px;
+    border-radius: 5px;
+}
+h52{
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1210px;
+    margin-top: 690px;
+    position: absolute;
+}
+h53{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 1353px;
+}
+#Ingresso5{
+    width: 200px;
+    height: 65px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+    margin-top: 660px;
+    margin-left: 1330px;
+    position: absolute;
+}
+h54{
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    color: white; 
+    margin-left: 164px;
+    position: absolute;
+    margin-top: 830px;
+}
+#linha11{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 816px;
+    margin-left: 365px;
+}
+h55{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 440px;
+}
+#horario16{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 820px;
+    margin-left: 410px;
+}
+h56{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 773px;
+    margin-left: 445px;
+}
+h57{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 647px;
+}
+#horario17{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 819px;
+    margin-left: 620px;
+}
+h58{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 775px;
+    margin-left: 655px;
+}
+h59{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 830px;
+    margin-left: 850px; 
+}
+#horario18{
+    width: 140px;
+    height: 60px;
+    border: 5px solid white;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 820px;
+    margin-left: 820px;
+}
+h60{
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 775px;
+    margin-left: 855px;
+}
+#linha12{
+    background-color: white;
+    width: 4px;
+    height: 70px;
+    position: absolute;
+    margin-top: 817px;
+    margin-left: 1097px;
+}
+#Dub6{
+    background-color: #7A1E1E;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin-top: 825px;
+    margin-left: 1200px;
+    border-radius: 5px;
+}
+h61{
+    color: white;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1210px;
+    margin-top: 843px;
+    position: absolute;
+
+}
+h62{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1350px;
+    margin-top: 835px;
+    position: absolute;
+}
+h63{
+    color: white;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 1353px;
+}
+#Ingresso6{
+    width: 200px;
+    height: 65px;
+    border: 5px solid #7A1E1E;
+    border-radius: 10px;
+    margin-top: 820px;
+    margin-left: 1329px;
+    position: absolute;
+}
+#faixainferior{
+    width: 100%;
+    height: 130px;
+    position: absolute;
+    background-color: #7A1E1E;
+    margin-top: 1500px;
+}
